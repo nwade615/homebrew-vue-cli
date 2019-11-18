@@ -5,7 +5,7 @@ class VueCli < Formula
   homepage "https://cli.vuejs.org/"
   url "https://registry.npmjs.org/@vue/cli/-/cli-4.0.5.tgz"
   version "4.0.5"
-  sha256 ""
+  sha256 "c8f76e25983244ddc848ecaaebec813831eefefb2c7e4f19742df3405ba4b24d"
 
   depends_on "node"
 
