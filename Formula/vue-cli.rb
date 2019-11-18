@@ -3,9 +3,9 @@ require "language/node"
 class VueCli < Formula
   desc "Standard Tooling for Vue.js Development"
   homepage "https://cli.vuejs.org/"
-  url "https://registry.npmjs.org/@vue/cli/-/cli-3.11.0.tgz"
-  version "3.11.0"
-  sha256 "a38b37599a8601e967ea3fc2de7e3491bb89f5864e3add6229f25a4fad115928"
+  url "https://registry.npmjs.org/@vue/cli/-/cli-4.0.5.tgz"
+  version "4.0.5"
+  sha256 ""
 
   depends_on "node"
 
